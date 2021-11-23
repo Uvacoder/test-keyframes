@@ -30,14 +30,14 @@
 				class="mbottom-md"
 				color="blue"
 				size="">
-				<span><b>Welcome to Keyframes.</b> It's pretty new, so there may be some bugs. If you notice any issues, or have other feedback or suggestions, send me a message at hello@hotdi.sh. </span>
+				<span><b>Welcome to abcKeyframes.</b> It's pretty new, so there may be some bugs. If you notice any issues, or have other feedback or suggestions, send me a message at hello@hotdi.sh. </span>
 			</Callout> -->
 
 			<!-- 
 				Hero
 			 -->
 			<div class="home-hero">
-				<h1>Keyframes helps CSS.</h1>
+				<h1>Keyframes abc helps CSS.</h1>
 				<h4>Dead simple visual tools to help you generate CSS for your projects.</h4>
 				<a @click="navigate('/about')">Read More about Keyframes</a>
 				<!-- <h4>A straightforward way to create animations, shadows, & colors - instantly get the CSS to use in your projects.</h4> -->
